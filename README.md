@@ -1,14 +1,6 @@
-SparkFun Eagle Settings
+Eagle Settings
 =======================
-These are the commonly used keyboard shortcuts, CAM and DRU configuration files for SparkFun board design. We use these files at SparkFun for all our design work.
-
-For more information about using Eagle to make a PCB see these tutorials:
-
-* [How to Install and Setup EAGLE](https://learn.sparkfun.com/tutorials/how-to-install-and-setup-eagle)
-* [Using EAGLE: Board Layout](https://learn.sparkfun.com/tutorials/using-eagle-board-layout)
-* [Using EAGLE: Schematic](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
-
-Be sure to checkout [SparkFun's footprints for Eagle](https://github.com/sparkfun/SparkFun-Eagle-Libraries).
+These are the commonly used keyboard shortcuts, CAM and DRU configuration files for Eagle from Sparkfun.
 
 Repository Contents
 -------------------
@@ -17,3 +9,9 @@ Repository Contents
 * **/scr** - Scripts for assigning keyboard shortcuts, grid sizes and layer colors
 * **/ulp** - Commonly used user language programs for BOM generation and library export
 
+Custom Libraries
+------------------
+* [SparkFun's footprints for Eagle](https://github.com/sparkfun/SparkFun-Eagle-Libraries).
+
+Other PCB Related
+------------------
